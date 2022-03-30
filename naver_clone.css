@@ -20,7 +20,7 @@ input {
     width: 700px;
     height: 70px;
     font-size: 22px;
-    color: lightgray;
+    color: darkgray;
 }
 #input[type="text"]:focus {
     outline: none;
